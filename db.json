@@ -9,6 +9,22 @@
       "id": 7
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Modern Wooden Bike",
+      "id": 18
+    },
+    {
+      "userId": 7,
+      "title": "Intelligent Steel Salad",
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "title": "Small Metal Gloves",
+      "id": 21
+    }
+  ],
   "photos": []
 }
