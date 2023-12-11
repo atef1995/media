@@ -22,5 +22,5 @@ export * from './thunks/addUser';
 export * from './thunks/removeUser';
 export { useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation } from './apis/albumsApi';
 export {
-  useFetchPhotosQuery, useAddPhotoMutation, usRemovePhotoMutation
+  useFetchPhotosQuery, useAddPhotoMutation, useRemovePhotoMutation
 } from './apis/photosApi'
